@@ -1,0 +1,11 @@
+{ GoodreadsResponse: { Request: [ [Object] ], search: [ [Object] ] } }
+
+{"GoodreadsResponse":{"Request":[{"authentication":["true"],"key":["removed"],"method":["search_index"]}],"search":[{"query":["driverless car book"],"results-start":["1"],"results-end":["2"],"total-results":["2"],"source":["Goodreads"],"query-time-seconds":["0.03"],"results":[{"work":[{"id":[{"_":"43308278","$":{"type":"integer"}}],"books_count":[{"_":"1","$":{"type":"integer"}}],"ratings_count":[{"_":"2","$":{"type":"integer"}}],"text_reviews_count":[{"_":"0","$":{"type":"integer"}}],"original_publication_year":[{"_":"2014","$":{"type":"integer"}}],"original_publication_month":[{"_":"11","$":{"type":"integer"}}],"original_publication_day":[{"_":"16","$":{"type":"integer"}}],"average_rating":["3.50"],"best_book":[{"$":{"type":"Book"},"id":[{"_":"23698869","$":{"type":"integer"}}],"title":["Driverless Car: Autonomous Future In Your Garage Book"],"author":[{"id":[{"_":"23985","$":{"type":"integer"}}],"name":["William Packer"]}],"image_url":["https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png"],"small_image_url":["https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png"]}]},{"id":[{"_":"64180808","$":{"type":"integer"}}],"books_count":[{"_":"1","$":{"type":"integer"}}],"ratings_count":[{"_":"0","$":{"type":"integer"}}],"text_reviews_count":[{"_":"0","$":{"type":"integer"}}],"original_publication_year":[{"$":{"type":"integer","nil":"true"}}],"original_publication_month":[{"$":{"type":"integer","nil":"true"}}],"original_publication_day":[{"$":{"type":"integer","nil":"true"}}],"average_rating":[{"_":"0.0","$":{"type":"float"}}],"best_book":[{"$":{"type":"Book"},"id":[{"_":"41079548","$":{"type":"integer"}}],"title":["Regulating Self Driving Cars in the UK: A Concise Guide to the Driverless Future and Emerging Policy Issues. (Technology Regulation and Social Issues Book 1)"],"author":[{"id":[{"_":"18282387","$":{"type":"integer"}}],"name":["Geofrey Banzi"]}],"image_url":["https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png"],"small_image_url":["https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png"]}]}]}]}]}}
+
+Driverless Car: Autonomous Future In Your Garage Book
+
+[]
+
+driverless car book
+
+Cannot read property 'work' of undefined
