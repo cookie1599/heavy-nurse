@@ -1,0 +1,36 @@
+{
+  "//2": "https://docs.npmjs.com/files/package.json",
+  "//3": "updating this file will download and update your packages",
+  "name": "GoodreadSearch",
+  "version": "1.0.1",
+  "description": "search books from goodreads",
+  "main": "node app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "express": "^4.16.4",
+    "fuse.js": "^3.3.0",
+    "xml2js": "^0.4.19"
+  },
+  "engines": {
+    "node": "10.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tikotik/greads.git"
+  },
+  "author": "Aevan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tikotik/greads/issues"
+  },
+  "homepage": "https://github.com/Tikotik/greads#readme",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
